@@ -1,8 +1,8 @@
-#Java Assignments
+# Java Assignments
 
-##Minimal collection of Java assignment solutions.
+## Minimal collection of Java assignment solutions.
 
-###Repository structure:
+### Repository structure:
 
 - `Assignment-1/` — `StudentRecordManagement.java`
 - `Assignment-2/` — `StudentManagementSystem.java`
@@ -10,7 +10,7 @@
 - `Assignment-4/` — `StudentRecordSystem.java`
 - `Assignment-5/` — `StudentManagerApp.java`
 
-###Usage:
+### Usage:
 
 - Open a terminal and `cd` into the assignment folder you want to run.
 - Compile: `javac *.java`
